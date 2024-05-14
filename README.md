@@ -139,8 +139,10 @@ while (1)
 ## Output screen shots on serial monitor   :
  ![image](https://github.com/Goutham2306/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/138971154/c591ff91-379d-42ff-8c2c-650a5e1a1e1e)
 
- 
+
  ![image](https://github.com/Goutham2306/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/138971154/1a5a8edf-5fbe-467b-9c11-e53904c03cc9)
+
+![324902047-cbbf2b60-2a62-48df-b6c8-eb6e2fe7d7a4](https://github.com/Goutham2306/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/138971154/f392981e-1d97-4f16-bebb-7a3fbc5c6ee2)
 
  
 ## Result :
